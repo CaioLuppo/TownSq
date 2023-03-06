@@ -22,6 +22,13 @@ soluções inovadoras. Para mim, o emprego ideal é aquele que me permite usar m
 alguma forma. Foi por isso que escolhi me dedicar ao desenvolvimento de aplicativos Android, pois acredito que essa plataforma é perfeita para transformar essas ideias
 em realidade.
 
-## Challenge Técnico
+## Challenge Técnico 1
 
-Os arquivos do challenge técnico estão no repositório!
+Aqui está o link direto para o arquivo do código principal do challenge: <a href="challenge_1/src/main/kotlin/Main.kt" >Main.kt</a>
+
+Para executar, faça o download da pasta e rode o código no IntelliJ ou outra IDE de preferência.
+
+## Challenge Técnico 2
+Diagrama de classe contendo a representação de um contexto de condomínios:
+ 
+<img src="challenge_2.png" alt="Imagem do diagrama">
