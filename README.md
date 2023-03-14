@@ -7,7 +7,7 @@ também pode incluir a venda desse jogo ou a apresentação dele em um evento de
 #### 2. Quem é você/o que faz quando ninguém está vendo?
 R. Antes de tudo, sou um ser humano, ou seja, naturalmente curioso e intrigado pelo aprendizado! Quando ninguém está olhando, sempre estou procurando ou estudando algo
 que quero. Tenho o aprendizado como hobby, tanto para fins profissionais quanto simplesmente pelo prazer de saber como as coisas funcionam. Fico facilmente fascinado
-por assuntos complexos, pois gosto da sensação de ser esforçar e persistir, e compreender depois de todo esse trabalho árduo. Devido a essas características, sou
+por assuntos complexos, pois gosto da sensação de se esforçar e persistir, e compreender depois de todo esse trabalho árduo. Devido a essas características, sou
 entusiasta de assuntos relacionados às ciências exatas!
 
 #### 3. Qual a maior motivação para escolher a área de tecnologia enquanto carreira?
